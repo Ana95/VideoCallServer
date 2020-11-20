@@ -8,9 +8,7 @@ public class VonageApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VonageApiApplication.class, args);
-		System.out.println("Application started!");
-		
-		
+		System.out.println("Application started!");	
 	}
 
 }
